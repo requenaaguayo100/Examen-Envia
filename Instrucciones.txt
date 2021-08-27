@@ -1,0 +1,4 @@
+Instalar el xampp
+Copiar los archivos a la carpeta httdocs.
+Ejecutar Socket en una pestaña.
+Abrir el archivo Form y generar la guia.
